@@ -11,9 +11,13 @@
 }
 .box_2 {
 }
+.shape {
+}
 ._图片 {
 }
 .placeholder {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
@@ -92,7 +96,7 @@
 }
 .box_3 {
 }
-.shape {
+.shape1 {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -107,5 +111,10 @@
 }
 ._图片3 {
 }
-.shape1 {
+.paragraph {
+  text-align:left;
+}
+.shape2 {
+}
+.horizontal_line {
 }
