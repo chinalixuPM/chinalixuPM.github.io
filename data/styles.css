@@ -86,10 +86,14 @@
 }
 ._流程形状 {
 }
+._连接线 {
+}
 ._图片1 {
   color:#000000;
 }
 .icon {
+}
+.image {
 }
 ._图片2 {
   color:#000000;
@@ -116,5 +120,32 @@
 }
 .shape2 {
 }
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.image1 {
+  color:#000000;
+}
 .horizontal_line {
+}
+.paragraph1 {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }
